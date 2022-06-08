@@ -2,3 +2,5 @@
 /NIST-SP-500-282.pdf
 /tcpCongestion.exe
 /TCP_Congestion_A01747290.pdf
+*.exe
+*.zip
